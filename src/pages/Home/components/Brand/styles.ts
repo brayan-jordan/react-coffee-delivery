@@ -1,7 +1,7 @@
 import { styled } from 'styled-components'
 
 export const BrandContainer = styled.div`
-  padding: 5.75rem 10rem;
+  padding: 5.75rem 0;
   height: 34rem;
   display: flex;
   justify-content: space-between;
@@ -22,7 +22,7 @@ export const TitlesContainer = styled.div`
   gap: 1rem;
 
   h1 {
-    font-family: 'Baloo 2';
+    font-family: 'Baloo 2', sans-serif;
     font-weight: 700;
     font-size: 3rem;
     line-height: 130%;
