@@ -1,3 +1,5 @@
+import { Brand } from './components/Brand'
+
 export function Home() {
-  return <h1>Home</h1>
+  return <Brand />
 }
