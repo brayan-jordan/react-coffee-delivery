@@ -15,6 +15,6 @@ export const HomeContainer = styled.div`
 
 export const CoffeeListContainer = styled.div`
   display: grid;
-  gap: 2.5rem 2rem;
+  gap: 1.5rem 2.5rem;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 `
